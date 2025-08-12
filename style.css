@@ -24,7 +24,7 @@ html {
 
 /* Základ */
 body {
-    background-image: url('images/background.jpg');
+    background-image: url('background.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -659,3 +659,4 @@ nav a:hover::after {
   user-select: none;
   z-index: 100;
 }
+
